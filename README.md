@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 Olá, sou Pedro, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense. 7/8
-e tambem estagiaria na empresa D.A.M. Soluções.
+e tambem estagiario na empresa D.A.M. Soluções.
 <div align="center">
   <a href="https://github.com/Maveryk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maveryk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
