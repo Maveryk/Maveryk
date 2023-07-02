@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-Olá, sou Pedro, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense. 7/8
+Olá, sou Pedro, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense. 8/8
 e tambem estagiario na empresa D.A.M. Soluções como desenvolvedor web.
 <div align="center">
   <a href="https://github.com/Maveryk">
