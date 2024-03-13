@@ -1,12 +1,21 @@
+## Bem-vindo(a)
 
-### Hi there 👋
-Olá, sou Pedro, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense 8/8
 
-Permita-me compartilhar um pouco sobre mim! Tenho uma paixão pela área da tecnologia, especialmente pela programação! Iniciei minha jornada no desenvolvimento aos 20 anos e desde então, tenho mantido uma busca incansável por aprimoramento contínuo. Além de minha maestria na programação, possuo um conhecimento sólido abrangendo áreas como a manutenção de computadores, a criação de jogos, aplicativos mobile e a gestão de redes com destreza e proficiência.
+Olá, meu nome é Pedro.
 
-Estudando atualmente
+## Mais sobre mim
+```csharp
 
-- Git
-- Docker
-- Unity
-- Flutter
+class Maveryk {
+  string name = "Pedro";
+  string acknowledgements = "Sistemas de Informação";
+
+  string primarySkillset = "Minhas Habilidades"
+  List<string> skills = ["c#", "JavaScript",
+                          "SQL", "HTML5", "CSS3", "dart"]
+
+  string learning  = "ESTOU ESTUDANDO AGORA"
+  List<string> lstLearning = ["Docker", "Unity", "Flutter"]
+
+}
+```
