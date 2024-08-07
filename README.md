@@ -48,3 +48,14 @@
 ![unity](https://img.shields.io/badge/-unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Maveryk}/count.svg" /></p> 
+  <div align="center">  
+<a href="https://www.linkedin.com/in/pedro-s-d-rangel-5766811aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
