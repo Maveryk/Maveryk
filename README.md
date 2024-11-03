@@ -23,7 +23,7 @@
 ![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![nodedotjs](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-cplusplus-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c++&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=0D1117&labelColor=0D1117)&nbsp;
