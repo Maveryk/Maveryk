@@ -49,6 +49,7 @@ Sou um **desenvolvedor apaixonado por tecnologia** com 25 anos, baseado no Rio d
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Firebird](https://img.shields.io/badge/-Firebird-FF6600?style=for-the-badge&logo=firebird&logoColor=white)&nbsp;
 
 </div>
 
